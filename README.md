@@ -1,7 +1,7 @@
 # [lvl50calc](https://a-baranowska.github.io/Pokemonlvl50calc/)
 # Pokémon GO Level 50 Calculator
 
-This Pokémon GO Level Speed Calculator is a web-based tool to help players estimate their progress toward reaching level 50. By inputting your total XP and the date you started playing, the calculator determines:
+This Pokémon GO Level 50 Calculator is a web-based tool to help players estimate their progress toward reaching level 50. By inputting your total XP and the date you started playing, the calculator determines:
 
 - Your current level
 - The average XP you earn per day
