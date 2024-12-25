@@ -79,7 +79,7 @@ Here is a breakdown of the XP required for each level:
 
 ## Screenshots
 
-![Screenshot of the Calculator]()
+![Screenshot of the Calculator](PokemonGoLvl50Calc.png)
 
 ---
 
