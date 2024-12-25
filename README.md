@@ -15,7 +15,7 @@ This Pokémon GO Level Speed Calculator is a web-based tool to help players esti
 - **Level Determination**: Displays your current level based on your total XP.
 - **XP Progress Bar**: Visualizes your progress toward level 50 with an animated bar.
 - **Avg Daily XP**: Calculates your average daily XP earnings.
-- **Time Estimation**: Calculates how long it will take to reach level 50 based on your current XP rate in days and years.
+- **Time Estimation**: Calculates how long it will take to reach level 50 based on your current XP rate in days.
 ---
 
 ## Usage
@@ -25,7 +25,7 @@ This Pokémon GO Level Speed Calculator is a web-based tool to help players esti
 3. The tool will dynamically calculate:
    - Your current level
    - Average XP per day
-   - Estimated time to reach level 50 in days and years
+   - Estimated time to reach level 50 in days
 
 ---
 
